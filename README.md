@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Jyotsna Pajjuri 👋
 
-<!--
-**jyotsna05-22/jyotsna05-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student from India  
+💻 Python Developer  
+🌱 Learning Open Source Development  
+🚀 Preparing for Google Summer of Code (GSoC)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a Computer Science student passionate about building real-world projects using Python and web technologies.  
+I enjoy learning new technologies, contributing to open source, and solving problems using programming.
+
+---
+
+## 🛠 Skills
+- Python
+- Flask
+- SQL
+- Git & GitHub
+- Data Analysis
+- Web Development (HTML, CSS, React, Javascript)
+
+---
+
+## 📌 Projects
+
+### 1️⃣ AI Chronic Disease Predictor
+A healthcare prediction system that analyzes symptoms and predicts possible chronic diseases using machine learning.
+
+### 2️⃣ Weather App
+A Python-based weather application that fetches real-time weather data and displays temperature, humidity, and conditions.
+
+---
+
+## 🌍 Goals
+- Contribute to open-source projects
+- Improve my development skills
+- Participate in **Google Summer of Code (GSoC)**
+
+---
+
+## 📫 Connect With Me
+📧 Email: jyotsnapajjuri@gmail.com  
+💻 GitHub: https://github.com/jyotsna05-22
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
