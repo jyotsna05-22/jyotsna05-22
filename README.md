@@ -36,7 +36,6 @@ A Python-based weather application that fetches real-time weather data and displ
 ## 🌍 Goals
 - Contribute to open-source projects
 - Improve my development skills
-- Participate in **Google Summer of Code (GSoC)**
 
 ---
 
