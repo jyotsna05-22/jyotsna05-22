@@ -3,7 +3,6 @@
 🎓 Computer Science Student from India  
 💻 Python Developer  
 🌱 Learning Open Source Development  
-🚀 Preparing for Google Summer of Code (GSoC)
 
 ---
 
