@@ -7,13 +7,14 @@
 ---
 
 ## 👩‍💻 About Me
-I am a Computer Science student passionate about building real-world projects using Python and web technologies.  
+I am a Computer Science graduate passionate about building real-world projects using Python and web technologies.  
 I enjoy learning new technologies, contributing to open source, and solving problems using programming.
 
 ---
 
 ## 🛠 Skills
 - Python
+- c
 - Flask
 - SQL
 - Git & GitHub
