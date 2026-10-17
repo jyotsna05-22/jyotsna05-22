@@ -1,6 +1,6 @@
 # Hi, I'm Jyotsna Pajjuri 👋
 
-🎓 Computer Science Student from India  
+🎓 Computer Science graduate from India  
 💻 Python Developer  
 🌱 Learning Open Source Development  
 
